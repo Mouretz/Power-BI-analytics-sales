@@ -1,11 +1,14 @@
 # Power-BI-analytics-sales
+
 Projeto de Data Analytics com Power BI para area de Vendas
 
-Pontos a serem considerados
+Pontos a serem considerados:
 
 · Pensar na disposição dos visuais em como o cliente irá consumir o conteúdo
 
+
 Visuais do relatório:
+
 
 · Visuais sobre os TOP3 Produtos
 
